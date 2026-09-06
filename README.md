@@ -8,8 +8,7 @@ i'm currently a fifth-semester computer science student, studying at binus unive
 
 as for my hobbies, i listen to lots and lots of music and play soulslikes games—hollow knight is my favorite
 
-i build software too, primarily full-stack applications, with a growing focus on infrastructure, devops, and dependable deployment practices
-
+i build software too, primarily full-stack applications, with a growing focus on infrastructure and devops engineering
 ## technology stack
 
 ### languages
