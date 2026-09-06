@@ -60,6 +60,9 @@ i build software too, primarily full-stack applications, with a growing focus on
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Tempo](https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-## elsewhere
 
-more polished things → [christofle.dev](https://christofle.dev)
+<hr>
+
+<p align="center">
+<a href="https://christofle.dev" target="_blank" rel="noopener noreferrer">christofle.dev</a>
+</p>
