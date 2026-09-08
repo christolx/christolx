@@ -63,5 +63,5 @@ i build software too, primarily full-stack applications, with a growing focus on
 <hr>
 
 <p align="center">
-<a href="https://christofle.dev">christofle.dev</a>
+<a href="https://www.christofletjhai.dev">christofletjhai.dev</a>
 </p>
